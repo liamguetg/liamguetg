@@ -1,5 +1,5 @@
-- 👋 Yoyoyo, I’m @liamguetg
-- Love coding and love testing even more!!
+- 👋 Greetings! I’m @liamguetg
+- 🤓 Love coding and love testing even more!!
 - 📍 Vancouver
 - 💻 Computer Science, UBC
 
