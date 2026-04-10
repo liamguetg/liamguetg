@@ -3,7 +3,4 @@
 - 📍 Vancouver
 - 💻 Computer Science, UBC
 
-Experience using:
-- Java, Python, C++, C, Assembly, Racket, R, HTML, SQL
-- Junit, JSON, Git
-
+Please Check out my portfolio Website: https://portfolio-website-blue-alpha.vercel.app/
